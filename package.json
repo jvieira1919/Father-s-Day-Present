@@ -1,0 +1,23 @@
+{
+  "name": "father-s-day-present",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint **/*.js --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvieira1919/Father-s-Day-Present.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  },
+  "bugs": {
+    "url": "https://github.com/jvieira1919/Father-s-Day-Present/issues"
+  },
+  "homepage": "https://github.com/jvieira1919/Father-s-Day-Present#readme"
+}
